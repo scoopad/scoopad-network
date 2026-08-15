@@ -1,5 +1,7 @@
 # 🥄 Scoopad
 
+Official pumpfun : GcD5wEWcWH7hg1g1gtFxZHgA58NFCmai2ALxzjqxpump
+
 > **Launch fair tokens that can be mined through grid games, staking & burning.**
 
 Scoopad is a fully on-chain token launch platform built around **fair distribution, community participation, and transparent token mechanics**.
